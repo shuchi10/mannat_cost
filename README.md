@@ -1,2 +1,1 @@
-# mannat_cost
-mannat
+startting web project
