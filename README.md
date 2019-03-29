@@ -1,3 +1,1 @@
-startting web project
-
-this is Git project
+making few more changes for git comparison
